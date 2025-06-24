@@ -175,4 +175,4 @@ Contributions are welcome! Please refer to the `CONTRIBUTING.md` (if available) 
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 - [Website](https://nex-chain.tech)
-- [Twitter](https://x.com/use_nex)
+- [Twitter](https://x.com/nex_chainllm)
