@@ -31,7 +31,7 @@ NEX is an AI-powered platform designed to provide decentralized crypto intellige
 
   
 
-\`\`\`
+```
 
 nex-ai-project/
 
@@ -54,7 +54,7 @@ nex-ai-project/
 └── config/
 └── settings.py
 
-\`\`\`
+```
 
   
 
@@ -101,69 +101,49 @@ nex-ai-project/
   
 
 1.  **Clone the repository:**
+```
+    bash
+    git clone <your-repository-url>
+    cd nex-ai-project
+```
 
-\`\`\`bash
 
-git clone <your-repository-url>
-
-cd nex-ai-project
-
-\`\`\`
 
   
 
 2.  **Create a virtual environment (recommended):**
-
-\`\`\`bash
-
-python3 -m venv venv
-
-source venv/bin/activate # On Windows: `venv\Scripts\activate`
-
-\`\`\`
-
-  
+```
+    bash
+    python3 -m venv venv
+    source venv/bin/activate # On Windows: `venv\Scripts\activate`
+```
 
 3.  **Install dependencies:**
-
-\`\`\`bash
-
-pip install -r requirements.txt
-
-pip install -e . # Install your project in editable mode
-
-\`\`\`
-
+```
+    bash
+    pip install -r requirements.txt
+    pip install -e . # Install your project in editable mode
+```
   
 
 4.  **Configure environment variables (if applicable):**
-
-For sensitive information like API keys, create a `.env` file in the root directory (or set system-wide environment variables).
-
-\`\`\`
+```
+    For sensitive information like API keys, create a `.env` file in the root directory (or set system-wide environment variables).
+```
 
 # Example .env content
 
 DEXSCREENER_API_KEY=your_api_key_here # (Currently not required by Dexscreener public API)
-
-\`\`\`
-
-  
 
 ## Usage
 
   
 
 To run a basic crypto intelligence analysis using live data from Dexscreener:
-
-  
-
-\`\`\`bash
-
-python scripts/run_analysis.py
-
-\`\`\`
-
+```
+    bash
+    python scripts/run_analysis.py
+```
   
 
 This script will:
@@ -194,4 +174,4 @@ Contributions are welcome! Please refer to the `CONTRIBUTING.md` (if available) 
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 - [Website](https://nex-chain.tech)
-- [Twitter](https://x.com/nex-chain)
+- [Twitter](https://x.com/use_nex)
