@@ -1,7 +1,7 @@
 
 # NEX: Decentralized Crypto Intelligence
 
-![enter image description here](https://olive-chemical-haddock-701.mypinata.cloud/ipfs/bafybeihxaspzbcbsnxspn53ar3ucc2l4keevq2hdli53djvuhikwpsgaf4)
+![enter image description here](https://olive-chemical-haddock-701.mypinata.cloud/ipfs/bafybeihvlxl57innrcqwo43s7sf2sgsluorazbgrpcfwyvzziib5mx4tfa)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%200.24%2B-orange?logo=scikit-learn&logoColor=white)
 ![Product Hunt](https://img.shields.io/badge/Product%20Hunt-%23DA552F?logo=producthunt&logoColor=white)
